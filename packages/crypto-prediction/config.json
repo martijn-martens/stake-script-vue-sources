@@ -1,0 +1,18 @@
+{
+    "id": "crypto-prediction",
+    "name": "Crypto Prediction",
+    "type": "prediction",
+    "description": "This add-on implements Crypto Prediction game.",
+    "providers": [
+        "Packages\\CryptoPrediction\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "crypto-prediction",
+    "source_path": "src",
+    "namespace": "Packages\\CryptoPrediction\\",
+    "static": {
+        "CryptoPredictionPackageSeeder": "database/seeders"
+    },
+    "purchase_url": "https://codecanyon.net/item/crypto-prediction-addon-for-stake-casino-gaming-platform/32848779",
+    "min_app_version": "1.12.3",
+    "hash": "bc30551d5786e7d74b438fe285e68840"
+}

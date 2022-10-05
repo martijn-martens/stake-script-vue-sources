@@ -1,0 +1,3 @@
+/*! For license information please see is-plain-object.js.LICENSE.txt */
+(self.webpackChunk=self.webpackChunk||[]).push([[9230],{55299:(t,e,o)=>{"use strict";var r=o(47798);function n(t){return!0===r(t)&&"[object Object]"===Object.prototype.toString.call(t)}t.exports=function(t){var e,o;return!1!==n(t)&&("function"==typeof(e=t.constructor)&&(!1!==n(o=e.prototype)&&!1!==o.hasOwnProperty("isPrototypeOf")))}}}]);
+//# sourceMappingURL=is-plain-object.js.map

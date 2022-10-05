@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[5743],{76392:e=>{e.exports=function(e,t){var i="function"==typeof e.exports?e.exports.extendOptions:e.options;for(var s in"function"==typeof e.exports&&(i.directives=e.exports.options.directives),i.directives=i.directives||{},t)i.directives[s]=i.directives[s]||t[s]}}}]);
+//# sourceMappingURL=vuetify-loader.js.map
